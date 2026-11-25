@@ -1,0 +1,6 @@
+{
+  "name": "ZOVRA LABS",
+  "description": "ZOVRALABS.COM — Creative digital agency and digital products marketplace specializing in web development, AI automation, SEO, and digital products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
